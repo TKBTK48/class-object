@@ -1,0 +1,17 @@
+using System;
+
+public class PTra08_01
+{
+    public static void Main(string[] args)
+    {
+        // TODO Helloメソッドを呼び出してください
+        Hello();
+
+
+    }
+
+    public static void Hello()
+    {
+        Console.WriteLine("こんにちは");
+    }
+}
